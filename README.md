@@ -1,6 +1,8 @@
 
 # MovieMania  
 *(Optional: Badge for live demo or build status)*
+## Author
+Sandipan Das
 
 ## Overview  
 MovieZone is a simple, responsive movie browsing website built with HTML and CSS. It showcases a list of movies and allows users to view details like title, genre, and rating.
